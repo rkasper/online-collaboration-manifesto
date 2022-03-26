@@ -118,3 +118,6 @@ dmypy.json
 
 # Mac stuff
 .DS_Store
+
+# Bootstrap Studio
+*.bsdesign
